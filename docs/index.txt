@@ -1,0 +1,50 @@
+Welcome to Mayan EDMS!
+======================
+
+.. image:: /_static/mayan_logo.png
+  :alt: Logo is a trademark of Roberto Rosario
+  :align: center
+
+
+Mayan EDMS is the most advanced `Free Open Source`_
+`Electronic Document Management System`_
+available. It is coded in the Python language using the Django_ web
+application framework and released under the `GPL 2.0 License`_.
+
+It is also very easy to install and get started:
+
+- :ref:`docker_compose_install`
+
+For additional premium articles, tutorials, and troubleshooting,
+join the Knowledge Base community. By joining, you receive access to
+hundreds of articles and help support the project. Join today to unlock tons
+of exclusive content and contribute to the growth of Mayan EDMS!
+
+
+.. toctree::
+    :hidden:
+
+    parts/features
+    parts/installation
+    releases/index
+    chapters/series_status
+    parts/getting_started
+    apps/index
+    chapters/docker/index
+    chapters/portainer/index
+    chapters/development/index
+    chapters/security
+    parts/faq
+    parts/license
+    parts/contact
+
+
+.. _Docker: https://www.docker.com/
+.. _Django: http://www.djangoproject.com/
+.. _Free Open Source: http://en.wikipedia.org/wiki/Open_source
+.. _Electronic Document Management System: https://en.wikipedia.org/wiki/Document_management_system
+.. _GPL 2.0 License: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+
+
+..
+    parts/adding_documents
